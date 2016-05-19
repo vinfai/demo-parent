@@ -1,6 +1,5 @@
 package com.cainiao.service;
 
-import com.alibaba.dubbo.registry.dubbo.DubboRegistry;
 
 /**
  * @author vinfai
